@@ -41,5 +41,5 @@ jobs:
           aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws_region: eu-central-1
-          function_name: lambda-stack-csvtodynamodb96572F17-W1PI8ekldniZ
+          function_name: lambda-stack-csvtodynamodb96572F17-P12kTx7lKZNC
           zip_file: bundle.zip
